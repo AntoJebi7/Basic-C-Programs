@@ -1,4 +1,6 @@
 # ninja log v5
-3	241	7270873738147836	CMakeFiles/c_codes.dir/main.c.obj	bad55190b14ba618
-241	432	7270873739964955	c_codes.exe	b8c9a3498e29a94a
-7	258	7270875001122806	build.ninja	973dace8f4277409
+2	79	7294784349918078	CMakeFiles/c_codes.dir/main.c.obj	bad55190b14ba618
+97	198	7294783595219726	c_codes.exe	d7eea19c8e881c12
+2	82	7294783013417769	CMakeFiles/c_codes.dir/cpractices.c.obj	1aa04160045def68
+1	111	7294858385825354	build.ninja	973dace8f4277409
+6	78	7294784349903068	CMakeFiles/c_codes.dir/csamples/cpractices.c.obj	10330b8e191df361

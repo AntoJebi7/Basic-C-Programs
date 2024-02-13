@@ -55,6 +55,66 @@ build CMakeFiles/c_codes.dir/main.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:
   OBJECT_DIR = CMakeFiles\c_codes.dir
   OBJECT_FILE_DIR = CMakeFiles\c_codes.dir
 
+build CMakeFiles/c_codes.dir/csamples/cpractices.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cpractices.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cpractices.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/carrays.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/carrays.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\carrays.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cfuncs.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cfuncs.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cfuncs.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cconditional.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cconditional.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cconditional.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cswitch.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cswitch.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cswitch.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cstructure.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cstructure.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cstructure.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/c2darray.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/c2darray.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\c2darray.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cpointers.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cpointers.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cpointers.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cfileop.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cfileop.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cfileop.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
+build CMakeFiles/c_codes.dir/csamples/cloops.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/csamples/cloops.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\csamples\cloops.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c_codes
@@ -63,7 +123,7 @@ build CMakeFiles/c_codes.dir/main.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:
 #############################################
 # Link the executable c_codes.exe
 
-build c_codes.exe: C_EXECUTABLE_LINKER__c_codes_Debug CMakeFiles/c_codes.dir/main.c.obj
+build c_codes.exe: C_EXECUTABLE_LINKER__c_codes_Debug CMakeFiles/c_codes.dir/main.c.obj CMakeFiles/c_codes.dir/csamples/cpractices.c.obj CMakeFiles/c_codes.dir/csamples/carrays.c.obj CMakeFiles/c_codes.dir/csamples/cfuncs.c.obj CMakeFiles/c_codes.dir/csamples/cconditional.c.obj CMakeFiles/c_codes.dir/csamples/cswitch.c.obj CMakeFiles/c_codes.dir/csamples/cstructure.c.obj CMakeFiles/c_codes.dir/csamples/c2darray.c.obj CMakeFiles/c_codes.dir/csamples/cpointers.c.obj CMakeFiles/c_codes.dir/csamples/cfileop.c.obj CMakeFiles/c_codes.dir/csamples/cloops.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\c_codes.dir
