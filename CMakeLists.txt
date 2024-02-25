@@ -23,4 +23,6 @@ add_executable(c_codes main.c
         datatsructures/insertion_sort.c
         datatsructures/selection_sort.c
         datatsructures/merge_sort.c
+        datatsructures/prims-algo.c
+        datatsructures/dijkstra-algo.c
 )
