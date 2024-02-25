@@ -115,6 +115,60 @@ build CMakeFiles/c_codes.dir/csamples/cloops.c.obj: C_COMPILER__c_codes_unscanne
   OBJECT_DIR = CMakeFiles\c_codes.dir
   OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\csamples
 
+build CMakeFiles/c_codes.dir/datatsructures/stackarrayimp.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/stackarrayimp.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\stackarrayimp.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/singlylinkedlist.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/singlylinkedlist.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\singlylinkedlist.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/queuelinkedlist.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/queuelinkedlist.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\queuelinkedlist.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/polynomial_addition.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/polynomial_addition.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\polynomial_addition.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/infixtopostfix.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/infixtopostfix.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\infixtopostfix.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/avl_tree.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/avl_tree.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\avl_tree.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/insertion_sort.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/insertion_sort.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\insertion_sort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/selection_sort.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/selection_sort.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\selection_sort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
+build CMakeFiles/c_codes.dir/datatsructures/merge_sort.c.obj: C_COMPILER__c_codes_unscanned_Debug D$:/c_codes/datatsructures/merge_sort.c || cmake_object_order_depends_target_c_codes
+  DEP_FILE = CMakeFiles\c_codes.dir\datatsructures\merge_sort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c_codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\c_codes.dir\datatsructures
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c_codes
@@ -123,7 +177,7 @@ build CMakeFiles/c_codes.dir/csamples/cloops.c.obj: C_COMPILER__c_codes_unscanne
 #############################################
 # Link the executable c_codes.exe
 
-build c_codes.exe: C_EXECUTABLE_LINKER__c_codes_Debug CMakeFiles/c_codes.dir/main.c.obj CMakeFiles/c_codes.dir/csamples/cpractices.c.obj CMakeFiles/c_codes.dir/csamples/carrays.c.obj CMakeFiles/c_codes.dir/csamples/cfuncs.c.obj CMakeFiles/c_codes.dir/csamples/cconditional.c.obj CMakeFiles/c_codes.dir/csamples/cswitch.c.obj CMakeFiles/c_codes.dir/csamples/cstructure.c.obj CMakeFiles/c_codes.dir/csamples/c2darray.c.obj CMakeFiles/c_codes.dir/csamples/cpointers.c.obj CMakeFiles/c_codes.dir/csamples/cfileop.c.obj CMakeFiles/c_codes.dir/csamples/cloops.c.obj
+build c_codes.exe: C_EXECUTABLE_LINKER__c_codes_Debug CMakeFiles/c_codes.dir/main.c.obj CMakeFiles/c_codes.dir/csamples/cpractices.c.obj CMakeFiles/c_codes.dir/csamples/carrays.c.obj CMakeFiles/c_codes.dir/csamples/cfuncs.c.obj CMakeFiles/c_codes.dir/csamples/cconditional.c.obj CMakeFiles/c_codes.dir/csamples/cswitch.c.obj CMakeFiles/c_codes.dir/csamples/cstructure.c.obj CMakeFiles/c_codes.dir/csamples/c2darray.c.obj CMakeFiles/c_codes.dir/csamples/cpointers.c.obj CMakeFiles/c_codes.dir/csamples/cfileop.c.obj CMakeFiles/c_codes.dir/csamples/cloops.c.obj CMakeFiles/c_codes.dir/datatsructures/stackarrayimp.c.obj CMakeFiles/c_codes.dir/datatsructures/singlylinkedlist.c.obj CMakeFiles/c_codes.dir/datatsructures/queuelinkedlist.c.obj CMakeFiles/c_codes.dir/datatsructures/polynomial_addition.c.obj CMakeFiles/c_codes.dir/datatsructures/infixtopostfix.c.obj CMakeFiles/c_codes.dir/datatsructures/avl_tree.c.obj CMakeFiles/c_codes.dir/datatsructures/insertion_sort.c.obj CMakeFiles/c_codes.dir/datatsructures/selection_sort.c.obj CMakeFiles/c_codes.dir/datatsructures/merge_sort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\c_codes.dir

@@ -14,4 +14,13 @@ add_executable(c_codes main.c
         csamples/cpointers.c
         csamples/cfileop.c
         csamples/cloops.c
+        datatsructures/stackarrayimp.c
+        datatsructures/singlylinkedlist.c
+        datatsructures/queuelinkedlist.c
+        datatsructures/polynomial_addition.c
+        datatsructures/infixtopostfix.c
+        datatsructures/avl_tree.c
+        datatsructures/insertion_sort.c
+        datatsructures/selection_sort.c
+        datatsructures/merge_sort.c
 )
