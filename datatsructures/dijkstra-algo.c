@@ -8,7 +8,6 @@
 void dijkstra(int G[MAX][MAX],int n,int startnode);
 int main(){
     int G[MAX][MAX],i,j,n,u;
-    clrscr();
     printf("Enter no. of vertices:");
     scanf("%d",&n);
     printf("\nEnter the adjacency matrix:\n");
