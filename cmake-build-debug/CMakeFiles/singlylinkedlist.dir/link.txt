@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/singlylinkedlist.dir/datatsructures/singlylinkedlist.c.o -o singlylinkedlist 

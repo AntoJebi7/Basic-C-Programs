@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/cswitch.dir/csamples/cswitch.c.o -o cswitch 

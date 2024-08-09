@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/cloops.dir/csamples/cloops.c.o -o cloops 

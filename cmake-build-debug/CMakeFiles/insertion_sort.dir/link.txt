@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/insertion_sort.dir/datatsructures/insertion_sort.c.o -o insertion_sort 

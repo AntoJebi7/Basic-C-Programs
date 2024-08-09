@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/carrays.dir/csamples/carrays.c.o -o carrays 

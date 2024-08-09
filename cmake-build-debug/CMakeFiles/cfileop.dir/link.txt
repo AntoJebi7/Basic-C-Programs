@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/cfileop.dir/csamples/cfileop.c.o -o cfileop 

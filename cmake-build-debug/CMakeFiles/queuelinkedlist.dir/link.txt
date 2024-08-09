@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o -o queuelinkedlist 

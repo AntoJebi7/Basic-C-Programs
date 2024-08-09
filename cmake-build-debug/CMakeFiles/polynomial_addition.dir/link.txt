@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o -o polynomial_addition 

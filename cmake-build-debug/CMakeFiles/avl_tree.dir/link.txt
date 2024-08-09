@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o -o avl_tree 
