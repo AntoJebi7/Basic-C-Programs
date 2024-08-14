@@ -435,6 +435,82 @@
 					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="recover">
+				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/recover" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recover/fast">
+				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/recover" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mngsystem">
+				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/mngsystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mngsystem/fast">
+				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/mngsystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="stackarrayimp">
 				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/stackarrayimp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
@@ -903,6 +979,35 @@
 		</Unit>
 		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cswitch.c">
 			<Option target="cswitch"/>
+		</Unit>
+		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/mngsystem.c">
+			<Option target="main"/>
+			<Option target="cpractices"/>
+			<Option target="carrays"/>
+			<Option target="cfuncs"/>
+			<Option target="cconditional"/>
+			<Option target="cstructure"/>
+			<Option target="c2darray"/>
+			<Option target="cpointers"/>
+			<Option target="cfileop"/>
+			<Option target="cloops"/>
+			<Option target="cswitch"/>
+			<Option target="recover"/>
+			<Option target="mngsystem"/>
+			<Option target="stackarrayimp"/>
+			<Option target="singlylinkedlist"/>
+			<Option target="queuelinkedlist"/>
+			<Option target="polynomial_addition"/>
+			<Option target="infixtopostfix"/>
+			<Option target="avl_tree"/>
+			<Option target="insertion_sort"/>
+			<Option target="selection_sort"/>
+			<Option target="merge_sort"/>
+			<Option target="prims_algo"/>
+			<Option target="dijkstra_algo"/>
+		</Unit>
+		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/recover.c">
+			<Option target="recover"/>
 		</Unit>
 		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/avl_tree.c">
 			<Option target="avl_tree"/>

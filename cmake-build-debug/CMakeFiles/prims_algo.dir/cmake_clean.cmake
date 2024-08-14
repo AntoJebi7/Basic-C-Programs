@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o"
   "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o.d"
   "prims_algo"

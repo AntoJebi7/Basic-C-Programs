@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cfileop.dir/csamples/cfileop.c.o -o cfileop 
+/usr/bin/cc -g CMakeFiles/cfileop.dir/csamples/cfileop.c.o CMakeFiles/cfileop.dir/csamples/mngsystem.c.o -o cfileop 

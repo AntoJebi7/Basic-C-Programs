@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cpractices.dir/csamples/cpractices.c.o"
   "CMakeFiles/cpractices.dir/csamples/cpractices.c.o.d"
+  "CMakeFiles/cpractices.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cpractices.dir/csamples/mngsystem.c.o.d"
   "cpractices"
   "cpractices.pdb"
 )

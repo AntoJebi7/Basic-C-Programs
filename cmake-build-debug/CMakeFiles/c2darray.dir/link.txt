@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/c2darray.dir/csamples/c2darray.c.o -o c2darray 
+/usr/bin/cc -g CMakeFiles/c2darray.dir/csamples/c2darray.c.o CMakeFiles/c2darray.dir/csamples/mngsystem.c.o -o c2darray 

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o"
   "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o.d"
   "avl_tree"

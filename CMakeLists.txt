@@ -16,6 +16,8 @@ set(SOURCE_FILES
         csamples/cfileop.c
         csamples/cloops.c
         csamples/cswitch.c
+        csamples/recover.c
+        csamples/mngsystem.c
         datatsructures/stackarrayimp.c
         datatsructures/singlylinkedlist.c
         datatsructures/queuelinkedlist.c
@@ -38,7 +40,9 @@ foreach(SRC_FILE IN LISTS SOURCE_FILES)
     string(REPLACE "-" "_" EXEC_NAME ${EXEC_NAME})
 
     # Add the executable
-    add_executable(${EXEC_NAME} ${SRC_FILE})
+    add_executable(${EXEC_NAME} ${SRC_FILE}
+            csamples/mngsystem.c
+    )
 
     # If there are additional dependencies or include directories for specific files,
     # you can set them here using target_link_libraries or target_include_directories

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o"
   "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o.d"
   "infixtopostfix"

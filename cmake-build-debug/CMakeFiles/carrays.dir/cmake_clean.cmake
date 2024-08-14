@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/carrays.dir/csamples/carrays.c.o"
   "CMakeFiles/carrays.dir/csamples/carrays.c.o.d"
+  "CMakeFiles/carrays.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/carrays.dir/csamples/mngsystem.c.o.d"
   "carrays"
   "carrays.pdb"
 )

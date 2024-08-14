@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o -o avl_tree 
+/usr/bin/cc -g CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o -o avl_tree 

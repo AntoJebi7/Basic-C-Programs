@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o.d"
   "/home/anto/CLionProjects/c_codes/datatsructures/dijkstra-algo.c" "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o" "gcc" "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o.d"
   )
 

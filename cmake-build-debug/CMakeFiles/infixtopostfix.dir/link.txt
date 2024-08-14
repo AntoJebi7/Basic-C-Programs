@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o -o infixtopostfix 
+/usr/bin/cc -g CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o -o infixtopostfix 

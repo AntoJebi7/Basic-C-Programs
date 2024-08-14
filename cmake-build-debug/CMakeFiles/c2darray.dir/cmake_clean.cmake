@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/c2darray.dir/csamples/c2darray.c.o"
   "CMakeFiles/c2darray.dir/csamples/c2darray.c.o.d"
+  "CMakeFiles/c2darray.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/c2darray.dir/csamples/mngsystem.c.o.d"
   "c2darray"
   "c2darray.pdb"
 )

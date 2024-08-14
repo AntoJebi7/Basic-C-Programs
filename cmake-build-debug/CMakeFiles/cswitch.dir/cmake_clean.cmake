@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cswitch.dir/csamples/cswitch.c.o"
   "CMakeFiles/cswitch.dir/csamples/cswitch.c.o.d"
+  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.o.d"
   "cswitch"
   "cswitch.pdb"
 )

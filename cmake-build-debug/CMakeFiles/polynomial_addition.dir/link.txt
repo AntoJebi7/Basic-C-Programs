@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o -o polynomial_addition 
+/usr/bin/cc -g CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o -o polynomial_addition 

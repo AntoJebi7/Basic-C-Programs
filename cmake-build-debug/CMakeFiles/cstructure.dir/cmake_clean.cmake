@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cstructure.dir/csamples/cstructure.c.o"
   "CMakeFiles/cstructure.dir/csamples/cstructure.c.o.d"
+  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o.d"
   "cstructure"
   "cstructure.pdb"
 )

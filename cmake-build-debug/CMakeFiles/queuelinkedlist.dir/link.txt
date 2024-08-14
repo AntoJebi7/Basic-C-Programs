@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o -o queuelinkedlist 
+/usr/bin/cc -g CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o -o queuelinkedlist 

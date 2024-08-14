@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o"
   "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o.d"
   "dijkstra_algo"

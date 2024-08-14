@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/anto/CLionProjects/c_codes/csamples/cpractices.c" "CMakeFiles/cpractices.dir/csamples/cpractices.c.o" "gcc" "CMakeFiles/cpractices.dir/csamples/cpractices.c.o.d"
+  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/cpractices.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/cpractices.dir/csamples/mngsystem.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

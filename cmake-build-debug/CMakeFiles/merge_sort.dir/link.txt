@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o -o merge_sort 
+/usr/bin/cc -g CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o -o merge_sort 

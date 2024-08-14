@@ -10,9 +10,14 @@ struct classA{
     float percentage;
     char result[10];
 };
-
+struct anto {
+    char name[20];
+    int age;
+    long int mobile;
+    char result[20];
+};
 int main(){
-    struct classA ca;
+    /*struct classA ca;
     strcpy(ca.name,"anto jebikshan");
     ca.age=18;
     ca.percentage=67.9;
@@ -21,5 +26,19 @@ int main(){
     printf("%d\n",ca.age);
     printf("%s\n",ca.name);
     printf("%s\n",ca.result);
+
+
+    */
+
+    struct anto an;
+    an.age=34;
+    an.mobile=123456789;
+    strcpy(an.name, "anto"); // Use strcpy to copy strings
+    strcpy(an.result, "pass");
+    printf("%s",an.result);
+
+
+
+
     return 0;
 }

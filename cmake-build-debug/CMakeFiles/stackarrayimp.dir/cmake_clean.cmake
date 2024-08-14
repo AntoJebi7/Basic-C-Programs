@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o"
   "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o.d"
   "stackarrayimp"

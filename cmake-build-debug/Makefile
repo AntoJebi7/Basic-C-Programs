@@ -260,6 +260,32 @@ cswitch/fast:
 .PHONY : cswitch/fast
 
 #=============================================================================
+# Target rules for targets named recover
+
+# Build rule for target.
+recover: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 recover
+.PHONY : recover
+
+# fast build rule for target.
+recover/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/build
+.PHONY : recover/fast
+
+#=============================================================================
+# Target rules for targets named mngsystem
+
+# Build rule for target.
+mngsystem: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 mngsystem
+.PHONY : mngsystem
+
+# fast build rule for target.
+mngsystem/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mngsystem.dir/build.make CMakeFiles/mngsystem.dir/build
+.PHONY : mngsystem/fast
+
+#=============================================================================
 # Target rules for targets named stackarrayimp
 
 # Build rule for target.
@@ -642,6 +668,123 @@ csamples/cswitch.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cswitch.dir/build.make CMakeFiles/cswitch.dir/csamples/cswitch.c.s
 .PHONY : csamples/cswitch.c.s
 
+csamples/mngsystem.o: csamples/mngsystem.c.o
+.PHONY : csamples/mngsystem.o
+
+# target to build an object file
+csamples/mngsystem.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpractices.dir/build.make CMakeFiles/cpractices.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/carrays.dir/build.make CMakeFiles/carrays.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfuncs.dir/build.make CMakeFiles/cfuncs.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cconditional.dir/build.make CMakeFiles/cconditional.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstructure.dir/build.make CMakeFiles/cstructure.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2darray.dir/build.make CMakeFiles/c2darray.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpointers.dir/build.make CMakeFiles/cpointers.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfileop.dir/build.make CMakeFiles/cfileop.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cloops.dir/build.make CMakeFiles/cloops.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cswitch.dir/build.make CMakeFiles/cswitch.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mngsystem.dir/build.make CMakeFiles/mngsystem.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stackarrayimp.dir/build.make CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/singlylinkedlist.dir/build.make CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/queuelinkedlist.dir/build.make CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/polynomial_addition.dir/build.make CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/infixtopostfix.dir/build.make CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/insertion_sort.dir/build.make CMakeFiles/insertion_sort.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/selection_sort.dir/build.make CMakeFiles/selection_sort.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prims_algo.dir/build.make CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dijkstra_algo.dir/build.make CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o
+.PHONY : csamples/mngsystem.c.o
+
+csamples/mngsystem.i: csamples/mngsystem.c.i
+.PHONY : csamples/mngsystem.i
+
+# target to preprocess a source file
+csamples/mngsystem.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpractices.dir/build.make CMakeFiles/cpractices.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/carrays.dir/build.make CMakeFiles/carrays.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfuncs.dir/build.make CMakeFiles/cfuncs.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cconditional.dir/build.make CMakeFiles/cconditional.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstructure.dir/build.make CMakeFiles/cstructure.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2darray.dir/build.make CMakeFiles/c2darray.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpointers.dir/build.make CMakeFiles/cpointers.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfileop.dir/build.make CMakeFiles/cfileop.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cloops.dir/build.make CMakeFiles/cloops.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cswitch.dir/build.make CMakeFiles/cswitch.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mngsystem.dir/build.make CMakeFiles/mngsystem.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stackarrayimp.dir/build.make CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/singlylinkedlist.dir/build.make CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/queuelinkedlist.dir/build.make CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/polynomial_addition.dir/build.make CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/infixtopostfix.dir/build.make CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/insertion_sort.dir/build.make CMakeFiles/insertion_sort.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/selection_sort.dir/build.make CMakeFiles/selection_sort.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prims_algo.dir/build.make CMakeFiles/prims_algo.dir/csamples/mngsystem.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dijkstra_algo.dir/build.make CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.i
+.PHONY : csamples/mngsystem.c.i
+
+csamples/mngsystem.s: csamples/mngsystem.c.s
+.PHONY : csamples/mngsystem.s
+
+# target to generate assembly for a file
+csamples/mngsystem.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpractices.dir/build.make CMakeFiles/cpractices.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/carrays.dir/build.make CMakeFiles/carrays.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfuncs.dir/build.make CMakeFiles/cfuncs.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cconditional.dir/build.make CMakeFiles/cconditional.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cstructure.dir/build.make CMakeFiles/cstructure.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2darray.dir/build.make CMakeFiles/c2darray.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpointers.dir/build.make CMakeFiles/cpointers.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cfileop.dir/build.make CMakeFiles/cfileop.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cloops.dir/build.make CMakeFiles/cloops.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cswitch.dir/build.make CMakeFiles/cswitch.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mngsystem.dir/build.make CMakeFiles/mngsystem.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stackarrayimp.dir/build.make CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/singlylinkedlist.dir/build.make CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/queuelinkedlist.dir/build.make CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/polynomial_addition.dir/build.make CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/infixtopostfix.dir/build.make CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/avl_tree.dir/build.make CMakeFiles/avl_tree.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/insertion_sort.dir/build.make CMakeFiles/insertion_sort.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/selection_sort.dir/build.make CMakeFiles/selection_sort.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/merge_sort.dir/build.make CMakeFiles/merge_sort.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prims_algo.dir/build.make CMakeFiles/prims_algo.dir/csamples/mngsystem.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dijkstra_algo.dir/build.make CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.s
+.PHONY : csamples/mngsystem.c.s
+
+csamples/recover.o: csamples/recover.c.o
+.PHONY : csamples/recover.o
+
+# target to build an object file
+csamples/recover.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/recover.c.o
+.PHONY : csamples/recover.c.o
+
+csamples/recover.i: csamples/recover.c.i
+.PHONY : csamples/recover.i
+
+# target to preprocess a source file
+csamples/recover.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/recover.c.i
+.PHONY : csamples/recover.c.i
+
+csamples/recover.s: csamples/recover.c.s
+.PHONY : csamples/recover.s
+
+# target to generate assembly for a file
+csamples/recover.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/recover.dir/build.make CMakeFiles/recover.dir/csamples/recover.c.s
+.PHONY : csamples/recover.c.s
+
 datatsructures/avl_tree.o: datatsructures/avl_tree.c.o
 .PHONY : datatsructures/avl_tree.o
 
@@ -954,9 +1097,11 @@ help:
 	@echo "... insertion_sort"
 	@echo "... main"
 	@echo "... merge_sort"
+	@echo "... mngsystem"
 	@echo "... polynomial_addition"
 	@echo "... prims_algo"
 	@echo "... queuelinkedlist"
+	@echo "... recover"
 	@echo "... selection_sort"
 	@echo "... singlylinkedlist"
 	@echo "... stackarrayimp"
@@ -990,6 +1135,12 @@ help:
 	@echo "... csamples/cswitch.o"
 	@echo "... csamples/cswitch.i"
 	@echo "... csamples/cswitch.s"
+	@echo "... csamples/mngsystem.o"
+	@echo "... csamples/mngsystem.i"
+	@echo "... csamples/mngsystem.s"
+	@echo "... csamples/recover.o"
+	@echo "... csamples/recover.i"
+	@echo "... csamples/recover.s"
 	@echo "... datatsructures/avl_tree.o"
 	@echo "... datatsructures/avl_tree.i"
 	@echo "... datatsructures/avl_tree.s"

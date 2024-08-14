@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o.d"
   "/home/anto/CLionProjects/c_codes/datatsructures/queuelinkedlist.c" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o" "gcc" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o.d"
   )
 

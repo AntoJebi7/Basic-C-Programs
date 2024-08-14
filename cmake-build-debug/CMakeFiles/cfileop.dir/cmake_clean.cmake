@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cfileop.dir/csamples/cfileop.c.o"
   "CMakeFiles/cfileop.dir/csamples/cfileop.c.o.d"
+  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.o.d"
   "cfileop"
   "cfileop.pdb"
 )

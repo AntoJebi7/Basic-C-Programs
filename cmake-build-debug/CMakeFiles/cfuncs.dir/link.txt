@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cfuncs.dir/csamples/cfuncs.c.o -o cfuncs 
+/usr/bin/cc -g CMakeFiles/cfuncs.dir/csamples/cfuncs.c.o CMakeFiles/cfuncs.dir/csamples/mngsystem.c.o -o cfuncs 

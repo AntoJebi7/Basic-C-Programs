@@ -1,1 +1,1 @@
-/usr/bin/cc -g "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o" -o dijkstra_algo 
+/usr/bin/cc -g "CMakeFiles/dijkstra_algo.dir/datatsructures/dijkstra-algo.c.o" CMakeFiles/dijkstra_algo.dir/csamples/mngsystem.c.o -o dijkstra_algo 

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cconditional.dir/csamples/cconditional.c.o"
   "CMakeFiles/cconditional.dir/csamples/cconditional.c.o.d"
+  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.o.d"
   "cconditional"
   "cconditional.pdb"
 )

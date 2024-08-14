@@ -1,1 +1,1 @@
-/usr/bin/cc -g "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o" -o prims_algo 
+/usr/bin/cc -g "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o" CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o -o prims_algo 

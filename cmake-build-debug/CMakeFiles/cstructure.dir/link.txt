@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cstructure.dir/csamples/cstructure.c.o -o cstructure 
+/usr/bin/cc -g CMakeFiles/cstructure.dir/csamples/cstructure.c.o CMakeFiles/cstructure.dir/csamples/mngsystem.c.o -o cstructure 

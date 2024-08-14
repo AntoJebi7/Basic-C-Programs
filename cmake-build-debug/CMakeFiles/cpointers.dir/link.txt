@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cpointers.dir/csamples/cpointers.c.o -o cpointers 
+/usr/bin/cc -g CMakeFiles/cpointers.dir/csamples/cpointers.c.o CMakeFiles/cpointers.dir/csamples/mngsystem.c.o -o cpointers 

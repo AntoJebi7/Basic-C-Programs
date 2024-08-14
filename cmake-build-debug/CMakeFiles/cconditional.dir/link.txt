@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/cconditional.dir/csamples/cconditional.c.o -o cconditional 
+/usr/bin/cc -g CMakeFiles/cconditional.dir/csamples/cconditional.c.o CMakeFiles/cconditional.dir/csamples/mngsystem.c.o -o cconditional 

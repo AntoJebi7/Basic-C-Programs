@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o"
   "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o.d"
   "polynomial_addition"

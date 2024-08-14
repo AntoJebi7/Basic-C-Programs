@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o"
   "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o.d"
   "merge_sort"

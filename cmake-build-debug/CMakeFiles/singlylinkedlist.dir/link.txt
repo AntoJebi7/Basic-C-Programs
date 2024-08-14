@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/singlylinkedlist.dir/datatsructures/singlylinkedlist.c.o -o singlylinkedlist 
+/usr/bin/cc -g CMakeFiles/singlylinkedlist.dir/datatsructures/singlylinkedlist.c.o CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.o -o singlylinkedlist 

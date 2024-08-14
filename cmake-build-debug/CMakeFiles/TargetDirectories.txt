@@ -9,6 +9,8 @@
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/cfileop.dir
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/cloops.dir
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/cswitch.dir
+/home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/recover.dir
+/home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/mngsystem.dir
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/stackarrayimp.dir
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/singlylinkedlist.dir
 /home/anto/CLionProjects/c_codes/cmake-build-debug/CMakeFiles/queuelinkedlist.dir

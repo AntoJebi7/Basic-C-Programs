@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o"
   "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o.d"
   "queuelinkedlist"

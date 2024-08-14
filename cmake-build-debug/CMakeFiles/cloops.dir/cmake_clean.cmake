@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cloops.dir/csamples/cloops.c.o"
   "CMakeFiles/cloops.dir/csamples/cloops.c.o.d"
+  "CMakeFiles/cloops.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/cloops.dir/csamples/mngsystem.c.o.d"
   "cloops"
   "cloops.pdb"
 )

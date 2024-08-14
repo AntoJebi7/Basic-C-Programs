@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/selection_sort.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/selection_sort.dir/csamples/mngsystem.c.o.d"
   "/home/anto/CLionProjects/c_codes/datatsructures/selection_sort.c" "CMakeFiles/selection_sort.dir/datatsructures/selection_sort.c.o" "gcc" "CMakeFiles/selection_sort.dir/datatsructures/selection_sort.c.o.d"
   )
 

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/insertion_sort.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/insertion_sort.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/insertion_sort.dir/datatsructures/insertion_sort.c.o"
   "CMakeFiles/insertion_sort.dir/datatsructures/insertion_sort.c.o.d"
   "insertion_sort"

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.o"
+  "CMakeFiles/singlylinkedlist.dir/csamples/mngsystem.c.o.d"
   "CMakeFiles/singlylinkedlist.dir/datatsructures/singlylinkedlist.c.o"
   "CMakeFiles/singlylinkedlist.dir/datatsructures/singlylinkedlist.c.o.d"
   "singlylinkedlist"

@@ -26,8 +26,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/anto/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake"
   "/home/anto/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.28/Modules/ProcessorCount.cmake"
   "/home/anto/CLionProjects/c_codes/CMakeLists.txt"
-  "CMakeFiles/3.28.1/CMakeCCompiler.cmake"
-  "CMakeFiles/3.28.1/CMakeSystem.cmake"
+  "CMakeFiles/3.28.6/CMakeCCompiler.cmake"
+  "CMakeFiles/3.28.6/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:
@@ -54,6 +54,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/cfileop.dir/DependInfo.cmake"
   "CMakeFiles/cloops.dir/DependInfo.cmake"
   "CMakeFiles/cswitch.dir/DependInfo.cmake"
+  "CMakeFiles/recover.dir/DependInfo.cmake"
+  "CMakeFiles/mngsystem.dir/DependInfo.cmake"
   "CMakeFiles/stackarrayimp.dir/DependInfo.cmake"
   "CMakeFiles/singlylinkedlist.dir/DependInfo.cmake"
   "CMakeFiles/queuelinkedlist.dir/DependInfo.cmake"

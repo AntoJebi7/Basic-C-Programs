@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o.d"
   "/home/anto/CLionProjects/c_codes/datatsructures/stackarrayimp.c" "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o" "gcc" "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o.d"
   )
 
