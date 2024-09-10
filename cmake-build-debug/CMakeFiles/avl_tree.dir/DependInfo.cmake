@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/avl_tree.c" "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o" "gcc" "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/avl_tree.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/avl_tree.c" "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.obj" "gcc" "CMakeFiles/avl_tree.dir/datatsructures/avl_tree.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o"
-  "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o.d"
-  "merge_sort"
+  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.obj"
+  "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.obj.d"
+  "libmerge_sort.dll.a"
+  "merge_sort.exe"
+  "merge_sort.exe.manifest"
   "merge_sort.pdb"
 )
 

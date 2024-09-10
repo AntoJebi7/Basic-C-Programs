@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/prims-algo.c" "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o" "gcc" "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/prims_algo.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/prims-algo.c" "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.obj" "gcc" "CMakeFiles/prims_algo.dir/datatsructures/prims-algo.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cfuncs.dir/csamples/cfuncs.c.o"
-  "CMakeFiles/cfuncs.dir/csamples/cfuncs.c.o.d"
-  "CMakeFiles/cfuncs.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/cfuncs.dir/csamples/mngsystem.c.o.d"
-  "cfuncs"
+  "CMakeFiles/cfuncs.dir/csamples/cfuncs.c.obj"
+  "CMakeFiles/cfuncs.dir/csamples/cfuncs.c.obj.d"
+  "CMakeFiles/cfuncs.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/cfuncs.dir/csamples/mngsystem.c.obj.d"
+  "cfuncs.exe"
+  "cfuncs.exe.manifest"
   "cfuncs.pdb"
+  "libcfuncs.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

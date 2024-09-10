@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/cstructure.c" "CMakeFiles/cstructure.dir/csamples/cstructure.c.o" "gcc" "CMakeFiles/cstructure.dir/csamples/cstructure.c.o.d"
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cstructure.c" "CMakeFiles/cstructure.dir/csamples/cstructure.c.obj" "gcc" "CMakeFiles/cstructure.dir/csamples/cstructure.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/cstructure.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/cstructure.dir/csamples/mngsystem.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

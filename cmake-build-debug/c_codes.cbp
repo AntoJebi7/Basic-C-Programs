@@ -8,979 +8,979 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpractices">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cpractices" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cpractices.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpractices"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpractices"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpractices/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cpractices" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cpractices.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpractices/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpractices/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="carrays">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/carrays" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/carrays.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 carrays"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 carrays"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="carrays/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/carrays" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/carrays.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 carrays/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 carrays/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cfuncs">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cfuncs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cfuncs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfuncs"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfuncs"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cfuncs/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cfuncs" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cfuncs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfuncs/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfuncs/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cconditional">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cconditional" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cconditional.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cconditional"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cconditional"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cconditional/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cconditional" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cconditional.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cconditional/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cconditional/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cstructure">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cstructure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cstructure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cstructure"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cstructure"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cstructure/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cstructure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cstructure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cstructure/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cstructure/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c2darray">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/c2darray" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/c2darray.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2darray"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2darray"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c2darray/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/c2darray" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/c2darray.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2darray/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 c2darray/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpointers">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cpointers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cpointers.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpointers"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpointers"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpointers/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cpointers" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cpointers.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpointers/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpointers/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cfileop">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cfileop" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cfileop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfileop"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfileop"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cfileop/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cfileop" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cfileop.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfileop/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cfileop/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cloops">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cloops" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cloops.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cloops"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cloops"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cloops/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cloops" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cloops.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cloops/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cloops/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cswitch">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cswitch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cswitch.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cswitch"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cswitch"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cswitch/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/cswitch" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/cswitch.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 cswitch/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 cswitch/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="recover">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/recover" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/recover.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="recover/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/recover" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/recover.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 recover/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="mngsystem">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/mngsystem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/mngsystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="mngsystem/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/mngsystem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/mngsystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 mngsystem/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="stackarrayimp">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/stackarrayimp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/stackarrayimp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 stackarrayimp"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 stackarrayimp"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="stackarrayimp/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/stackarrayimp" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/stackarrayimp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 stackarrayimp/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 stackarrayimp/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="singlylinkedlist">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/singlylinkedlist" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/singlylinkedlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 singlylinkedlist"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 singlylinkedlist"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="singlylinkedlist/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/singlylinkedlist" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/singlylinkedlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 singlylinkedlist/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 singlylinkedlist/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="queuelinkedlist">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/queuelinkedlist" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/queuelinkedlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 queuelinkedlist"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 queuelinkedlist"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="queuelinkedlist/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/queuelinkedlist" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/queuelinkedlist.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 queuelinkedlist/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 queuelinkedlist/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="polynomial_addition">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/polynomial_addition" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/polynomial_addition.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 polynomial_addition"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 polynomial_addition"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="polynomial_addition/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/polynomial_addition" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/polynomial_addition.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 polynomial_addition/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 polynomial_addition/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="infixtopostfix">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/infixtopostfix" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/infixtopostfix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 infixtopostfix"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 infixtopostfix"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="infixtopostfix/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/infixtopostfix" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/infixtopostfix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 infixtopostfix/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 infixtopostfix/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="avl_tree">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/avl_tree" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/avl_tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 avl_tree"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 avl_tree"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="avl_tree/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/avl_tree" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/avl_tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 avl_tree/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 avl_tree/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="insertion_sort">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/insertion_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/insertion_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="insertion_sort/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/insertion_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/insertion_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="selection_sort">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/selection_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/selection_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="selection_sort/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/selection_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/selection_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="merge_sort">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/merge_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/merge_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="merge_sort/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/merge_sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/merge_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="prims_algo">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/prims_algo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/prims_algo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims_algo"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims_algo"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="prims_algo/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/prims_algo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/prims_algo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims_algo/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims_algo/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="dijkstra_algo">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/dijkstra_algo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/dijkstra_algo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 dijkstra_algo"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 dijkstra_algo"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="dijkstra_algo/fast">
-				<Option output="/home/anto/CLionProjects/c_codes/cmake-build-debug/dijkstra_algo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option output="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/dijkstra_algo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 dijkstra_algo/fast"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 dijkstra_algo/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/anto/CLionProjects/c_codes/cmake-build-debug"/>
+				<Option working_dir="C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/anto/CLionProjects/c_codes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/antoa/CLionProjects/Basic-C-Programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/c2darray.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/c2darray.c">
 			<Option target="c2darray"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/carrays.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/carrays.c">
 			<Option target="carrays"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cconditional.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cconditional.c">
 			<Option target="cconditional"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cfileop.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cfileop.c">
 			<Option target="cfileop"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cfuncs.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cfuncs.c">
 			<Option target="cfuncs"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cloops.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cloops.c">
 			<Option target="cloops"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cpointers.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cpointers.c">
 			<Option target="cpointers"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cpractices.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cpractices.c">
 			<Option target="cpractices"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cstructure.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cstructure.c">
 			<Option target="cstructure"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/cswitch.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/cswitch.c">
 			<Option target="cswitch"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/mngsystem.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c">
 			<Option target="main"/>
 			<Option target="cpractices"/>
 			<Option target="carrays"/>
@@ -1006,46 +1006,46 @@
 			<Option target="prims_algo"/>
 			<Option target="dijkstra_algo"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/csamples/recover.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/recover.c">
 			<Option target="recover"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/avl_tree.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/avl_tree.c">
 			<Option target="avl_tree"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/dijkstra-algo.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/dijkstra-algo.c">
 			<Option target="dijkstra_algo"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/infixtopostfix.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/infixtopostfix.c">
 			<Option target="infixtopostfix"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/insertion_sort.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/insertion_sort.c">
 			<Option target="insertion_sort"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/merge_sort.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/merge_sort.c">
 			<Option target="merge_sort"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/polynomial_addition.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/polynomial_addition.c">
 			<Option target="polynomial_addition"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/prims-algo.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/prims-algo.c">
 			<Option target="prims_algo"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/queuelinkedlist.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/queuelinkedlist.c">
 			<Option target="queuelinkedlist"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/selection_sort.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/selection_sort.c">
 			<Option target="selection_sort"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/singlylinkedlist.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/singlylinkedlist.c">
 			<Option target="singlylinkedlist"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/datatsructures/stackarrayimp.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/stackarrayimp.c">
 			<Option target="stackarrayimp"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/main.c">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/main.c">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/anto/CLionProjects/c_codes/CMakeLists.txt">
+		<Unit filename="C:/Users/antoa/CLionProjects/Basic-C-Programs/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

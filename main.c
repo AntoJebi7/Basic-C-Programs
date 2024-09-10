@@ -18,7 +18,7 @@ void main()
 
     do
     {
-        printf("\n main Menu");
+        printf("\n Menu");
         printf("\n 1.Create \n 2.Delete \n 3.Search \n 4.Insert \n 5.Display\n 6.Exit \n");
         printf("\n Enter your Choice");
         scanf("%d", &ch);

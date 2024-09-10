@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cconditional.dir/csamples/cconditional.c.o"
-  "CMakeFiles/cconditional.dir/csamples/cconditional.c.o.d"
-  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.o.d"
-  "cconditional"
+  "CMakeFiles/cconditional.dir/csamples/cconditional.c.obj"
+  "CMakeFiles/cconditional.dir/csamples/cconditional.c.obj.d"
+  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/cconditional.dir/csamples/mngsystem.c.obj.d"
+  "cconditional.exe"
+  "cconditional.exe.manifest"
   "cconditional.pdb"
+  "libcconditional.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

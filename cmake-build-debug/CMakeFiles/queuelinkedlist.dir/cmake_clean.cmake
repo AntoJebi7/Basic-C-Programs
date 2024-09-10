@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o"
-  "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o.d"
-  "queuelinkedlist"
+  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.obj"
+  "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.obj.d"
+  "libqueuelinkedlist.dll.a"
+  "queuelinkedlist.exe"
+  "queuelinkedlist.exe.manifest"
   "queuelinkedlist.pdb"
 )
 

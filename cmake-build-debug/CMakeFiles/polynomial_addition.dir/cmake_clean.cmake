@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o"
-  "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o.d"
-  "polynomial_addition"
+  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.obj"
+  "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.obj.d"
+  "libpolynomial_addition.dll.a"
+  "polynomial_addition.exe"
+  "polynomial_addition.exe.manifest"
   "polynomial_addition.pdb"
 )
 

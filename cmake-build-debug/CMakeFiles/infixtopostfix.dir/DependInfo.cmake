@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/infixtopostfix.c" "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o" "gcc" "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/infixtopostfix.c" "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.obj" "gcc" "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

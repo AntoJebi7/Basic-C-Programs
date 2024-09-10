@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cfileop.dir/csamples/cfileop.c.o"
-  "CMakeFiles/cfileop.dir/csamples/cfileop.c.o.d"
-  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.o.d"
-  "cfileop"
+  "CMakeFiles/cfileop.dir/csamples/cfileop.c.obj"
+  "CMakeFiles/cfileop.dir/csamples/cfileop.c.obj.d"
+  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/cfileop.dir/csamples/mngsystem.c.obj.d"
+  "cfileop.exe"
+  "cfileop.exe.manifest"
   "cfileop.pdb"
+  "libcfileop.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/merge_sort.c" "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o" "gcc" "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/merge_sort.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/merge_sort.c" "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.obj" "gcc" "CMakeFiles/merge_sort.dir/datatsructures/merge_sort.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

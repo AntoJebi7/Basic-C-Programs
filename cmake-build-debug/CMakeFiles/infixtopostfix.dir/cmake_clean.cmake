@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o"
-  "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.o.d"
-  "infixtopostfix"
+  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/infixtopostfix.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.obj"
+  "CMakeFiles/infixtopostfix.dir/datatsructures/infixtopostfix.c.obj.d"
+  "infixtopostfix.exe"
+  "infixtopostfix.exe.manifest"
   "infixtopostfix.pdb"
+  "libinfixtopostfix.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

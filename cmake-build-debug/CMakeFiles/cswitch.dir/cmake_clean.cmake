@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cswitch.dir/csamples/cswitch.c.o"
-  "CMakeFiles/cswitch.dir/csamples/cswitch.c.o.d"
-  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.o.d"
-  "cswitch"
+  "CMakeFiles/cswitch.dir/csamples/cswitch.c.obj"
+  "CMakeFiles/cswitch.dir/csamples/cswitch.c.obj.d"
+  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/cswitch.dir/csamples/mngsystem.c.obj.d"
+  "cswitch.exe"
+  "cswitch.exe.manifest"
   "cswitch.pdb"
+  "libcswitch.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

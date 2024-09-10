@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/main.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/main.dir/main.c.o"
-  "CMakeFiles/main.dir/main.c.o.d"
-  "main"
+  "CMakeFiles/main.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/main.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/main.dir/main.c.obj"
+  "CMakeFiles/main.dir/main.c.obj.d"
+  "libmain.dll.a"
+  "main.exe"
+  "main.exe.manifest"
   "main.pdb"
 )
 

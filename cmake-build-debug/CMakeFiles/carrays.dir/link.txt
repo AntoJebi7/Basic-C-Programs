@@ -1,1 +1,3 @@
-/usr/bin/cc -g CMakeFiles/carrays.dir/csamples/carrays.c.o CMakeFiles/carrays.dir/csamples/mngsystem.c.o -o carrays 
+"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\carrays.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\carrays.dir/objects.a @CMakeFiles\carrays.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\carrays.dir/objects.a -Wl,--no-whole-archive -o carrays.exe -Wl,--out-implib,libcarrays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\carrays.dir\linkLibs.rsp

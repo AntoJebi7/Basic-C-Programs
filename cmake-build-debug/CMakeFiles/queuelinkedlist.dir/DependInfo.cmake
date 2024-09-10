@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/queuelinkedlist.c" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o" "gcc" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/queuelinkedlist.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/queuelinkedlist.c" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.obj" "gcc" "CMakeFiles/queuelinkedlist.dir/datatsructures/queuelinkedlist.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

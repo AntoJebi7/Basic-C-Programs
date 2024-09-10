@@ -1,10 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cstructure.dir/csamples/cstructure.c.o"
-  "CMakeFiles/cstructure.dir/csamples/cstructure.c.o.d"
-  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.o.d"
-  "cstructure"
+  "CMakeFiles/cstructure.dir/csamples/cstructure.c.obj"
+  "CMakeFiles/cstructure.dir/csamples/cstructure.c.obj.d"
+  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/cstructure.dir/csamples/mngsystem.c.obj.d"
+  "cstructure.exe"
+  "cstructure.exe.manifest"
   "cstructure.pdb"
+  "libcstructure.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

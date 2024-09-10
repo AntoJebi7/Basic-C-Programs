@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/anto/CLionProjects/c_codes/csamples/mngsystem.c" "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o" "gcc" "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.o.d"
-  "/home/anto/CLionProjects/c_codes/datatsructures/polynomial_addition.c" "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o" "gcc" "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.o.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/csamples/mngsystem.c" "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.obj" "gcc" "CMakeFiles/polynomial_addition.dir/csamples/mngsystem.c.obj.d"
+  "C:/Users/antoa/CLionProjects/Basic-C-Programs/datatsructures/polynomial_addition.c" "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.obj" "gcc" "CMakeFiles/polynomial_addition.dir/datatsructures/polynomial_addition.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

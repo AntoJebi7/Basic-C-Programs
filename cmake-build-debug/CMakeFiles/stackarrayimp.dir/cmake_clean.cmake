@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o"
-  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.o.d"
-  "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o"
-  "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.o.d"
-  "stackarrayimp"
+  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.obj"
+  "CMakeFiles/stackarrayimp.dir/csamples/mngsystem.c.obj.d"
+  "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.obj"
+  "CMakeFiles/stackarrayimp.dir/datatsructures/stackarrayimp.c.obj.d"
+  "libstackarrayimp.dll.a"
+  "stackarrayimp.exe"
+  "stackarrayimp.exe.manifest"
   "stackarrayimp.pdb"
 )
 
