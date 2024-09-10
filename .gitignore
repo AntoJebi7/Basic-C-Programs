@@ -6,3 +6,24 @@ Makefile
 
 # Ensure only .c files are included
 !*.c
+
+# Ignore IDE configuration directories
+.idea/
+
+# Ignore CMake build directories
+build/
+build-debug/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Optional: Ignore debug files and directories
+*.log
+*.tmp
+*.swp
+
+# Optional: Ignore user-specific files
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+*.DS_Store
