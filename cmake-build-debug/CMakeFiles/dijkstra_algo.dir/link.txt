@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\dijkstra_algo.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\dijkstra_algo.dir/objects.a @CMakeFiles\dijkstra_algo.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\dijkstra_algo.dir/objects.a -Wl,--no-whole-archive -o dijkstra_algo.exe -Wl,--out-implib,libdijkstra_algo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dijkstra_algo.dir\linkLibs.rsp

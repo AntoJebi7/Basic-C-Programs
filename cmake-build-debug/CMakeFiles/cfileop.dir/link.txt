@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\cfileop.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\cfileop.dir/objects.a @CMakeFiles\cfileop.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\cfileop.dir/objects.a -Wl,--no-whole-archive -o cfileop.exe -Wl,--out-implib,libcfileop.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cfileop.dir\linkLibs.rsp
